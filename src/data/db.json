@@ -1,0 +1,113 @@
+{
+  "eventos": [
+    {
+      "id": "e123",
+      "titulo": "Workshop de Desenvolvimento",
+      "data": "2024-11-15",
+      "local": "Plataforma Online",
+      "descricao": "Workshop interativo sobre desenvolvimento de software utilizando APIs."
+    },
+    {
+      "id": "f456",
+      "titulo": "Seminário de Tecnologia",
+      "data": "2024-11-30",
+      "local": "Auditório Virtual",
+      "descricao": "Seminário abordando as últimas tendências em tecnologia e inovação."
+    },
+    {
+      "id": "g789",
+      "titulo": "Conferência sobre IA",
+      "data": "2025-01-10",
+      "local": "Salão de Conferências Digital",
+      "descricao": "Conferência internacional focada em inteligência artificial e suas aplicações."
+    },
+    {
+      "id": "h101",
+      "titulo": "Fórum de Startups",
+      "data": "2024-12-05",
+      "local": "Espaço Colaborativo Online",
+      "descricao": "Fórum destinado a conectar empreendedores e investidores no mundo digital."
+    },
+    {
+      "id": "i202",
+      "titulo": "Hackathon de Inovação",
+      "data": "2024-12-20",
+      "local": "Nuvem de Inovação",
+      "descricao": "Competição para desenvolver soluções criativas em 48 horas, focando em tecnologia e inovação."
+    }
+  ],
+  "participantes": [
+    {
+      "id": "a001",
+      "nome": "João Silva",
+      "email": "joao.silva@email.com",
+      "evento_id": "e123"
+    },
+    {
+      "id": "a002",
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@email.com",
+      "evento_id": "e123"
+    },
+    {
+      "id": "a003",
+      "nome": "Carlos Santos",
+      "email": "carlos.santos@email.com",
+      "evento_id": "f456"
+    },
+    {
+      "id": "a004",
+      "nome": "Ana Pereira",
+      "email": "ana.pereira@email.com",
+      "evento_id": "f456"
+    },
+    {
+      "id": "a005",
+      "nome": "Lucas Costa",
+      "email": "lucas.costa@email.com",
+      "evento_id": "g789"
+    },
+    {
+      "id": "a006",
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "evento_id": "g789"
+    },
+    {
+      "id": "a007",
+      "nome": "Ricardo Almeida",
+      "email": "ricardo.almeida@email.com",
+      "evento_id": "h101"
+    },
+    {
+      "id": "a008",
+      "nome": "Julia Martins",
+      "email": "julia.martins@email.com",
+      "evento_id": "h101"
+    },
+    {
+      "id": "a009",
+      "nome": "Thiago Rocha",
+      "email": "thiago.rocha@email.com",
+      "evento_id": "i202"
+    },
+    {
+      "id": "a010",
+      "nome": "Patrícia Ferreira",
+      "email": "patricia.ferreira@email.com",
+      "evento_id": "i202"
+    },
+    {
+      "id": "a006",
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "evento_id": "i202"
+    },
+    {
+      "id": "a001",
+      "nome": "João Silva",
+      "email": "joao.silva@email.com",
+      "evento_id": "i202"
+    }
+  ]
+}
